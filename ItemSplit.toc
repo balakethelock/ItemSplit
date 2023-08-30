@@ -1,6 +1,6 @@
 ## Interface: 11200
 ## Title: ItemSplit
-## Notes: faster and easier way to split large stacks into smaller ones
+## Notes: faster and easier way to split large stacks into smaller ones. Commands /split and /merge
 ## Author: balake
 ## Version: 1.0
 ## SavedVariables: 
